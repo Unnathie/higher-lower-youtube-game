@@ -1,6 +1,6 @@
 # 🎮 YouTube Higher or Lower —> Guess the Sub Count!
 
-Ever wondered who has more subscribers — MrBeast or some toy-unboxing 6-year-old?  
+Ever wondered who has more subscribers? MrBeast or some toy-unboxing 6-year-old?  
 Welcome to the **YouTube Higher or Lower** terminal game, where your only job is to guess who’s winning the clout race.
 
 ---
