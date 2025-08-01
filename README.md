@@ -83,8 +83,5 @@ Just don’t claim *you* wrote it while on a TED Talk.
 ## ⭐ Like it?
 
 Star the repo. Make my day.  
-Or better—play the game and challenge your friends!
-
-```
-
+Or better play the game and challenge your friends!
 Let me know if you want it styled for a GitHub Pages portfolio or LinkedIn description next!
